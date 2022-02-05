@@ -1,1 +1,0 @@
-// toto je skusobny subor
